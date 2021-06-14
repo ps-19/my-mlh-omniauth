@@ -8,7 +8,7 @@ authenticating with [MyMLH](https://my.mlh.io). To use it, you'll need to
 
 It now supports MyMLH API V3. [Read the MyMLH V3 docs here](https://my.mlh.io/docs).
 
-Once you have done so, you can follow the instructions below:
+Once you have done so, you can follow the instructions given below:
 
 ## Requirements
 
